@@ -1,0 +1,12 @@
+C:\Users\jaret\OneDrive\Escritorio\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\jaret\OneDrive\Escritorio\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\jaret\OneDrive\Escritorio\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+C:\Users\jaret\OneDrive\Escritorio\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jaret\OneDrive\Escritorio\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\jaret\OneDrive\Escritorio\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+D:\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+D:\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+D:\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+D:\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+D:\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+D:\Trabajos de la Universidad\Tercer Cuatrimestre\Orientado a Objetos\Unidad 3\PuntoDeVenta_Unidad3\Capa_Entidades\obj\Debug\Capa_Entidades.pdb

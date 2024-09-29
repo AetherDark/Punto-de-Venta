@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F19E88A8-A21A-4DCA-A553-AEC09E6509A0}|Capa_Negocios\\Capa_Negocios.csproj|D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\capa_negocios\\conexionsqln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F19E88A8-A21A-4DCA-A553-AEC09E6509A0}|Capa_Negocios\\Capa_Negocios.csproj|solutionrelative:capa_negocios\\conexionsqln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2225D10-823B-47B3-956D-31C15F35716D}|Capa_Datos\\Capa_Datos.csproj|d:\\trabajos de la universidad\\tercer cuatrimestre\\orientado a objetos\\unidad 3\\puntodeventa_unidad3\\capa_datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2225D10-823B-47B3-956D-31C15F35716D}|Capa_Datos\\Capa_Datos.csproj|solutionrelative:capa_datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\puntodeventa_unidad3\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|solutionrelative:puntodeventa_unidad3\\formusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\puntodeventa_unidad3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|solutionrelative:puntodeventa_unidad3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\puntodeventa_unidad3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|solutionrelative:puntodeventa_unidad3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\puntodeventa_unidad3\\forminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|solutionrelative:puntodeventa_unidad3\\forminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\puntodeventa_unidad3\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E6BE25-FAE8-4854-96AD-CFE38E3E0352}|PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3.csproj|solutionrelative:puntodeventa_unidad3\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B7B843-306C-433A-8A5E-5A2990B1F06C}|Capa_Entidades\\Capa_Entidades.csproj|D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\capa_entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B7B843-306C-433A-8A5E-5A2990B1F06C}|Capa_Entidades\\Capa_Entidades.csproj|solutionrelative:capa_entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B7B843-306C-433A-8A5E-5A2990B1F06C}|Capa_Entidades\\Capa_Entidades.csproj|D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\capa_entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B7B843-306C-433A-8A5E-5A2990B1F06C}|Capa_Entidades\\Capa_Entidades.csproj|solutionrelative:capa_entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormUsers.cs [Design]",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\FormUsers.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta_Unidad3\\FormUsers.cs",
+              "ToolTip": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\FormUsers.cs [Design]",
+              "RelativeToolTip": "PuntoDeVenta_Unidad3\\FormUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T23:09:00.261Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "conexionSQLN.cs",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\Capa_Negocios\\conexionSQLN.cs",
+              "RelativeDocumentMoniker": "Capa_Negocios\\conexionSQLN.cs",
+              "ToolTip": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\Capa_Negocios\\conexionSQLN.cs",
+              "RelativeToolTip": "Capa_Negocios\\conexionSQLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Capa_Negocios",
+              "WhenOpened": "2024-08-04T23:41:48.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\Capa_Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Capa_Datos\\Conexion.cs",
+              "ToolTip": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\Capa_Datos\\Conexion.cs",
+              "RelativeToolTip": "Capa_Datos\\Conexion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvxMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Capa_Datos",
+              "WhenOpened": "2024-08-04T10:43:24.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormInventario.cs",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\FormInventario.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta_Unidad3\\FormInventario.cs",
+              "ToolTip": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\FormInventario.cs",
+              "RelativeToolTip": "PuntoDeVenta_Unidad3\\FormInventario.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAswNwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:27:54.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentanaPrincipal.cs",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta_Unidad3\\VentanaPrincipal.cs",
+              "ToolTip": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\VentanaPrincipal.cs",
+              "RelativeToolTip": "PuntoDeVenta_Unidad3\\VentanaPrincipal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "PuntoDeVenta_Unidad3",
+              "WhenOpened": "2024-08-05T06:21:53.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\Form1.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta_Unidad3\\Form1.cs",
+              "ToolTip": "PuntoDeVenta_Unidad3/Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "PuntoDeVenta_Unidad3",
+              "OverriddenToolTip": "PuntoDeVenta_Unidad3/Form1.cs",
+              "WhenOpened": "2024-08-06T00:18:05.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\Form1.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta_Unidad3\\Form1.cs",
+              "ToolTip": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\PuntoDeVenta_Unidad3\\Form1.cs",
+              "RelativeToolTip": "PuntoDeVenta_Unidad3\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:18:07.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\Capa_Entidades\\Factura.cs",
+              "RelativeDocumentMoniker": "Capa_Entidades\\Factura.cs",
+              "ToolTip": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\Capa_Entidades\\Factura.cs",
+              "RelativeToolTip": "Capa_Entidades\\Factura.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:24:18.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Trabajos de la Universidad\\Tercer Cuatrimestre\\Orientado a Objetos\\Unidad 3\\PuntoDeVenta_Unidad3\\Capa_Entidades\\Class1.cs",
+              "RelativeDocumentMoniker": "Capa_Entidades\\Class1.cs",
+              "ToolTip": "Capa_Entidades/Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Capa_Entidades",
+              "OverriddenToolTip": "Capa_Entidades/Class1.cs",
+              "WhenOpened": "2024-08-14T06:05:17.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
